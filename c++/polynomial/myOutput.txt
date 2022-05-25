@@ -1,0 +1,10 @@
+p1 = x^2-x
+degree= 2
+p2= x^2-x
+p1==p2 is true
+p1=2x^2-2x
+p1=x^2-x
+p2= 3x^2-2x
+p1!=p2 is true
+p3 = 4x^2-3x
+p4 = 2x^2-x
